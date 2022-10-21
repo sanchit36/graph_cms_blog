@@ -10,6 +10,7 @@ import {
   Author,
   Comments,
   CommentsForm,
+  Loader,
 } from '../../components';
 import Head from 'next/head';
 import { AdjacentPosts } from '../../sections';
